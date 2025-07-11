@@ -44,11 +44,11 @@
     
     
     <entry>
-      <title>链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h1 id="本人："><a href="#本人：" class="headerlink" title="本人："></a>本人：</h1><p>擅长PS、Pr、Ae、Au、Ai、Dw、An、Id等软件的<del>安装与卸载</del></p><p>精通Html、CSS、JavaScript、PHP、Java、Python、C、C++、C#、Go、TypeScript等单词的<del>拼写</del></p><p>熟悉Windows、Linux、Mac、Android、IOS等系统的<del>开关机</del></p>]]></content>
       
     </entry>
     
@@ -66,17 +66,6 @@
     
     
     <entry>
-      <title>我的歌单</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p><font color=#0c74d6 size=3 face="黑体"><strong>非常纯的纯音乐</strong></font></p>    <div id="aplayer-UnKGiAjV" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="7315923099" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -88,11 +77,22 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>我的歌单</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h1 id="本人："><a href="#本人：" class="headerlink" title="本人："></a>本人：</h1><p>擅长PS、Pr、Ae、Au、Ai、Dw、An、Id等软件的<del>安装与卸载</del></p><p>精通Html、CSS、JavaScript、PHP、Java、Python、C、C++、C#、Go、TypeScript等单词的<del>拼写</del></p><p>熟悉Windows、Linux、Mac、Android、IOS等系统的<del>开关机</del></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p><font color=#0c74d6 size=3 face="黑体"><strong>非常纯的纯音乐</strong></font></p>    <div id="aplayer-rgmnoeCC" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="7315923099" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script>]]></content>
       
     </entry>
     

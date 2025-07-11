@@ -33,33 +33,11 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/cinema/index.html"/>
-      <url>/cinema/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
-      
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;}#page-header {    background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {    background: transparent !important;}#page-header::before {    background: transparent !important;} /* 夜问模式遮罩透明 */[data-theme="dark"] #footer::before {    background: transparent !important; }[data-theme="dark"] #page-header::before {    background: transparent !important;}#nav .menus_items {    position: absolute;    width: fit-content;    left: 50%;    transform: translateX(-50%);}#nav .menus_items .menus_item:hover .menus_item_child{    display: flex;  }/* 这里的2是代表导航栏的第二个元素，即有子菜单的元素，可以按自己需求修改 */.menus_items .menus_item:nth-child(2) .menus_item_child {    left: -35px;}/* 这里的3是代表导航栏的第三个元素，即有子菜单的元素，可以按自己需求修改 */.menus_items .menus_item:nth-child(3) .menus_item_child {    left: -135px;}/* 全局默认鼠标指针 */body,html{  cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/arrow.cur'),auto !important;}/* 悬停图片时的鼠标指针 */img{  cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/btn.cur'),auto !important;}/* 选择链接标签时的鼠标指针 */a:hover{    cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/link.cur'),auto;}/* 选中输入框时的鼠标指针 */input:hover{    cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/input.cur'),auto;}/* 悬停按钮时的鼠标指针 */button:hover{    cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/btn.cur'),auto;}/* 悬停列表标签时的鼠标指针 */i:hover{    cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/link.cur'),auto;}/* 悬停页脚链接标签（例如页脚徽标）时的鼠标指针 */#footer-wrap a:hover{      cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/hf.cur'),auto;}/* 悬停页码时的鼠标指针 */#pagination .page-number:hover{      cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/i.cur'),auto;}/* 悬停菜单栏时的鼠标指针 */#nav .site-page:hover{      cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/hf.cur'),auto;}]]></content>
       
     </entry>
     
@@ -77,11 +55,33 @@
     
     
     <entry>
+      <title>电影</title>
+      <link href="/cinema/index.html"/>
+      <url>/cinema/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的歌单</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p><font color=#0c74d6 size=3 face="黑体"><strong>非常纯的纯音乐</strong></font></p>    <div id="aplayer-yTUStDDo" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="7315923099" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p><font color=#0c74d6 size=3 face="黑体"><strong>非常纯的纯音乐</strong></font></p>    <div id="aplayer-UnKGiAjV" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="7315923099" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;}#page-header {    background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {    background: transparent !important;}#page-header::before {    background: transparent !important;} /* 夜问模式遮罩透明 */[data-theme="dark"] #footer::before {    background: transparent !important; }[data-theme="dark"] #page-header::before {    background: transparent !important;}#nav .menus_items {    position: absolute;    width: fit-content;    left: 50%;    transform: translateX(-50%);}#nav .menus_items .menus_item:hover .menus_item_child{    display: flex;  }/* 这里的2是代表导航栏的第二个元素，即有子菜单的元素，可以按自己需求修改 */.menus_items .menus_item:nth-child(2) .menus_item_child {    left: -35px;}/* 这里的3是代表导航栏的第三个元素，即有子菜单的元素，可以按自己需求修改 */.menus_items .menus_item:nth-child(3) .menus_item_child {    left: -135px;}/* 全局默认鼠标指针 */body,html{  cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/arrow.cur'),auto !important;}/* 悬停图片时的鼠标指针 */img{  cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/btn.cur'),auto !important;}/* 选择链接标签时的鼠标指针 */a:hover{    cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/link.cur'),auto;}/* 选中输入框时的鼠标指针 */input:hover{    cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/input.cur'),auto;}/* 悬停按钮时的鼠标指针 */button:hover{    cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/btn.cur'),auto;}/* 悬停列表标签时的鼠标指针 */i:hover{    cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/link.cur'),auto;}/* 悬停页脚链接标签（例如页脚徽标）时的鼠标指针 */#footer-wrap a:hover{      cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/hf.cur'),auto;}/* 悬停页码时的鼠标指针 */#pagination .page-number:hover{      cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/i.cur'),auto;}/* 悬停菜单栏时的鼠标指针 */#nav .site-page:hover{      cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/hf.cur'),auto;}]]></content>
       
     </entry>
     
